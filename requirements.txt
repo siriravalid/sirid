@@ -1,5 +1,6 @@
 streamlit
 python-dotenv
-langchain==0.0.x  # Use a compatible version
+langchain==0.0.114  # Use a specific version compatible with Python 3.12
+  # Use a compatible version
 pydantic==2.1.1  # Or another compatible version
 
